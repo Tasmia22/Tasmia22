@@ -1,6 +1,7 @@
 ### Hi there, I'm Tasmia Jannat 👋
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tasmia22&label=Profile%20views&color=0e75b6&style=flat" alt="Tasmia22" /> </p>
-
+-->
 
 ## I'm a Machine Learning Enthisuastric, Developer, and Researcher!!
 
