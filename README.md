@@ -3,12 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tasmia22&label=Profile%20views&color=0e75b6&style=flat" alt="Tasmia22" /> </p>
 -->
 
-## I'm a Machine Learning Enthusiastic, Web-Developer, and Researcher!!
+## I'm a Machine Learning Enthusiastic, Web-Developer, Teacher and Researcher!!
 
-- 🌱 I’m currently working on Hyperspectral Image Classification using 2D-3D CNN
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to research sector of Hyperspectral Image Classification 
-- ⚡ Fun fact: I love to draw and photo editing
+- 🌱 I’m currently working on Hyperspectral Image Classification 
+- 🥅 2022 Goals: Contribute more to research sector of Hyperspectral Image Classification 
 
 <p align="center">
 📫 Reach me at <a href="mailto:jannat22tasmia@gmail.com" target=_blanck><b>jannat22tasmia@gmail.com</b></a>
