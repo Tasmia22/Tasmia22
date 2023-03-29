@@ -6,7 +6,7 @@
 ## I'm a Machine Learning Enthusiastic, Web-Developer, Teacher and Researcher!!
 
 - 🌱 I’m currently working on Hyperspectral Image Classification 
-- 🥅 2022 Goals: Contribute more to research sector of Hyperspectral Image Classification 
+- 🥅 2023 Goals: Contribute more to research sector of Hyperspectral Image Classification 
 
 <p align="center">
 📫 Reach me at <a href="mailto:jannat22tasmia@gmail.com" target=_blanck><b>jannat22tasmia@gmail.com</b></a>
