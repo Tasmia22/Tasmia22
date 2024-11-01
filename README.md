@@ -3,10 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tasmia22&label=Profile%20views&color=0e75b6&style=flat" alt="Tasmia22" /> </p>
 -->
 
-## I'm a Machine Learning Enthusiastic, Web-Developer, Teacher and Researcher!!
+## I'm working as a Research Assistant ar Missouri S&T.  
 
-- 🌱 I’m currently working on Hyperspectral Image Classification 
-- 🥅 2023 Goals: Contribute more to research sector of Hyperspectral Image Classification 
+- 🌱 I’m currently working on Processing in Memory (PIM)
+- 🥅 2024: Contribute more on PIM area. 
 
 <p align="center">
 📫 Reach me at <a href="mailto:jannat22tasmia@gmail.com" target=_blanck><b>jannat22tasmia@gmail.com</b></a>
