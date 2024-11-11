@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tasmia22&label=Profile%20views&color=0e75b6&style=flat" alt="Tasmia22" /> </p>
 -->
 
-## I'm working as a Research Assistant ar Missouri S&T.  
+## I'm working as a Research Assistant at Missouri S&T.  
 
 - 🌱 I’m currently working on Processing in Memory (PIM)
 - 🥅 2024: Contribute more on PIM area. 
