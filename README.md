@@ -6,7 +6,7 @@
 ## I'm working as a Research Assistant at Missouri S&T.  
 
 - 🌱 I’m currently working on Processing in Memory (PIM)
-- 🥅 2024: Contribute more on PIM area. 
+- 🥅 2025: Contribute more on PIM area and HPC. 
 
 <p align="center">
 📫 Reach me at <a href="mailto:jannat22tasmia@gmail.com" target=_blanck><b>jannat22tasmia@gmail.com</b></a>
