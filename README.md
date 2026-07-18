@@ -15,7 +15,6 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/tasmia-jannat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tasmia-jannat" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Tasmia-Jannat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="Tasmia-Jannat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Tasmia22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Tasmia22" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/tasmiajannat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="tasmiajannat" height="30" width="40" /></a>
 </p>
 <br />
